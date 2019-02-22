@@ -2,7 +2,7 @@
 
 ## Description
 
-This is React Native app that allows user to create decks of flash cards to help them study.  It was created as part of the [React Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019).  Using the app you can create new decks and add new flashcards to them.  Once a deck is setup you can take a quiz to see how many answers you can get correct.  The app also has a daily reminder notification to remind you to study.
+This is React Native app that allows user to create decks of flash cards to help them study.  It was created as part of the [React Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019).  Using the app you can create new decks and add new flashcards to them.  Once a deck is setup you can take a quiz to see how many answers you can get correct.  The app also has a daily reminder notification to remind you to study at noon if you haven't already completed at least one quiz for that day.  This app can run on both Android and iOS platforms.
 
 ## Requirements
 
